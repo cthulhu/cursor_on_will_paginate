@@ -1,0 +1,10 @@
+== CursorOnWillPaginate
+  
+  
+  
+== Require: 
+  
+  will_paginate gem - http://wiki.github.com/mislav/will_paginate
+  
+== Usage
+  All usage samples are on the github page http://wiki.github.com/cthulhu/cursor_on_will_paginate
